@@ -15,7 +15,7 @@ The client wants atleast top 5 clusters[shops].
 ![image](https://github.com/BoosaRishitha/KMeans/assets/134841352/79e27fc9-22b7-4ba9-aa0d-478b74bc37c0)
 
 # Scatter Plot :
-![image](https://github.com/BoosaRishitha/KMeans/assets/134841352/ca3bd929-8178-423d-a9f2-b2d9081ff31b)
+![image](https://github.com/BoosaRishitha/KMeans/assets/134841352/5234743f-bdd8-4fba-9b03-1b34ff13b8bc)
 
 # Conclusion :
 According to the model basics prediction using machine learning algorithm KMeans clustering we found that cluster1 which consists red color is the highest cluster which attach more than 50 datanodes.
